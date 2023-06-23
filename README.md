@@ -1,5 +1,12 @@
 # Quick helper to count tokens 
 
+
+**GO USE https://github.com/yethee/tiktoken-php 👉**
+
+# Below is supersceded by the above ☝️
+
+
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sundance-solutions/larachain-token-count.svg?style=flat-square)](https://packagist.org/packages/sundance-solutions/larachain-token-count)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/sundance-solutions/larachain-token-count/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/sundance-solutions/larachain-token-count/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/sundance-solutions/larachain-token-count/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/sundance-solutions/larachain-token-count/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
